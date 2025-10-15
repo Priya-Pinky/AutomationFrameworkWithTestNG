@@ -1,5 +1,8 @@
 package Page;
 
-public class AccountCreatorPage {
+public class AccountCreatorPage
+  {
+    @FindBy(xpath="http:www.com") WebElement userName;
+     @FindBys(xpath="http:www.com")List<WebElement> password;
 
 }
