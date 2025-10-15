@@ -3,7 +3,7 @@ package Page;
 public class AccountCreatorPageDemo
   {
     @FindBy(xpath="http:www.com") WebElement userName;
-    @FindBy(xpath="http:www.com") WebElement uuserName;
+    @FindBy(xpath="http:www.com") WebElement uuserNamefinall;
    @FindBy(xpath="http:www.com") WebElement uuserchanges4444;
      @FindBys(xpath="http:www.com")List<WebElement> password;
      @FindBys(xpath="http:www.com")List<WebElement> data;
