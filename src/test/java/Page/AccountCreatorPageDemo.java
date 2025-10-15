@@ -7,7 +7,7 @@ public class AccountCreatorPageDemo
    @FindBy(xpath="http:www.com") WebElement uuserchanges4444;
      @FindBys(xpath="http:www.com")List<WebElement> password;
      @FindBys(xpath="http:www.com")List<WebElement> data;
-         @FindBys(xpath="http:www.com")List<WebElement> data2;
+         @FindBys(xpath="http:www.com")List<WebElement> finalllll;
 
 
 }
